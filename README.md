@@ -1,0 +1,3 @@
+print('Bucha said Pichu')
+
+--->
